@@ -4,7 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankit-kandulna&label=Profile%20views&color=0e75b6&style=flat" alt="ankit-kandulna" /> </p>
 
 
-- 🔭 I’m currently working on **Money Manager Application**
 
 - 🌱 I’m currently learning **Machine Learning**
 
