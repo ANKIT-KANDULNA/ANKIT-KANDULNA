@@ -29,7 +29,7 @@
 
 ## 🚀 Projects
 
-### 🤖 [AI-Generated Image Detector](https://github.com/ANKIT-KANDULNA)
+### 🤖 [AI-Generated Image Detector](https://ai-detector-ruddy-eta.vercel.app/)
 > Dual-model AI detection system with CNN + GAN architecture
 
 - Trained an **EfficientNetB0** CNN achieving **93–95% accuracy** on 140k+ real & fake faces
@@ -41,7 +41,7 @@
 
 ---
 
-### ✍️ [Write Like Me AI](https://github.com/ANKIT-KANDULNA)
+### ✍️ [Write Like Me AI](https://write-like-me-ai.vercel.app/)
 > Generate AI-written text rendered in *your* handwriting style on virtual canvas pages
 
 - Converts typed text into personalized handwritten output using learned handwriting patterns
@@ -53,7 +53,7 @@
 
 ---
 
-### 🍔 [FoodDelish](https://github.com/ANKIT-KANDULNA)
+### 🍔 [FoodDelish](https://food-delish.vercel.app/)
 > Full-stack food delivery platform
 
 - Secure auth using **JWT**, **bcrypt**, and **Google OAuth** (Firebase)
@@ -65,7 +65,7 @@
 
 ---
 
-### 🌐 [Portfolio Web App](https://github.com/ANKIT-KANDULNA)
+### 🌐 [Portfolio Web App](https://portfolio-web-app-4d7fb.web.app/)
 > Responsive developer portfolio built with Flutter Web
 
 - Reusable UI components, smooth navigation, and Firebase Hosting deployment
