@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
   </a>
   <a href="https://leetcode.com/u/ankit_kandulna/">
-    <img src="https://img.shields.io/badge/LeetCode-1710%20%7C%20Top%2013%25-orange?style=flat&logo=leetcode" />
+    <img src="https://img.shields.io/badge/LeetCode-1799%20%7C%20Top%208%25-orange?style=flat&logo=leetcode" />
   </a>
   <a href="https://www.codechef.com/users/ankitkandulna">
     <img src="https://img.shields.io/badge/CodeChef-2%20Star%20%7C%201503-brown?style=flat&logo=codechef" />
