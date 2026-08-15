@@ -19,7 +19,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech Computer Science @ **Delhi Technological University** (2023–2027) — CGPA: **7.72**
+- 🎓 B.Tech Computer Science @ **Delhi Technological University** (2023–2027) — CGPA: **7.62**
 - 🔭 Currently working on **AI-Generated Image Detection** and **Handwriting-to-Font** tools
 - 🌱 Exploring **Deep Learning**, **GANs**, and **Full-Stack AI Applications**
 - 💬 Ask me about **React, Next.js, FastAPI, Python, ML**
