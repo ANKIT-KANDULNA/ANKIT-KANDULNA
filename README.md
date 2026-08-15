@@ -40,6 +40,17 @@
 
 ---
 
+### 🖼️ [AI-Generated Image Detector](https://ai-detector-ruddy-eta.vercel.app/) — [GitHub](https://github.com/ANKIT-KANDULNA/ai-image-detector)
+> Dual-model system for detecting AI-generated faces
+
+- Built a dual-model detection system pairing a custom-trained EfficientNetB0 CNN with a PatchGAN discriminator using spectral normalization
+- Iterated the model from a baseline custom CNN through transfer learning, reaching ~93–95% accuracy on a 140k-image real/fake faces dataset, and debugged a critical double-normalization bug that had been silently degrading accuracy
+- Built a FastAPI backend for low-latency inference with a model-switching endpoint, paired with a Next.js frontend for drag-and-drop upload and real-time confidence visualization
+
+**Stack:** Python · TensorFlow · PyTorch · FastAPI · Next.js · Tailwind CSS
+
+---
+
 ### ✍️ [Write Like Me AI](https://write-like-me-ai.vercel.app/) — [GitHub](https://github.com/ANKIT-KANDULNA/write-like-me-ai)
 > Converts handwriting samples into a personalized, usable font
 
@@ -76,33 +87,35 @@
 
 ---
 
+### 🌐 [Portfolio Web App](https://portfolio-web-app-4d7fb.web.app/) — [GitHub](https://github.com/ANKIT-KANDULNA/portfolio-web-app)
+> Responsive developer portfolio built with Flutter Web
+
+- Built a responsive personal developer portfolio with reusable UI components and smooth in-app navigation
+- Deployed via Firebase Hosting
+
+**Stack:** Flutter · Dart · Firebase
+
+---
+
 ## 🛠️ Tech Stack
 
 **Languages**
 
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,c,dart,mysql" />
+</p>
 
 **Frameworks & Libraries**
 
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,fastapi,flutter,tensorflow,pytorch" />
+</p>
 
 **Infra, Databases & Tools**
 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,kafka,git,github" />
+</p>
 
 ---
 
@@ -122,11 +135,11 @@
 ## 🔗 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/ankit-kandulna-304b36285/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/u/ankit_kandulna/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/ankitkandulna" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/ankitkandulna1022" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/ankitkandulna101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@ankitkandulna1022/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/ankitkandzvng/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ankit-kandulna-304b36285/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.leetcode.com/u/ankit_kandulna/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+<a href="https://www.codechef.com/users/ankitkandulna" target="_blank"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+<a href="https://codeforces.com/profile/ankitkandulna1022" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+<a href="https://www.hackerrank.com/profile/ankitkandulna101" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+<a href="https://www.hackerearth.com/@ankitkandulna1022/" target="_blank"><img src="https://img.shields.io/badge/HackerEarth-2C3454?style=for-the-badge&logo=hackerearth&logoColor=white" /></a>
+<a href="https://auth.geeksforgeeks.org/user/ankitkandzvng/" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
 </p>
