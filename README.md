@@ -1,6 +1,6 @@
 <h1 align="center">Hey there 👋, I'm Ankit Kandulna</h1>
 
-<h3 align="center">CS Undergrad @ DTU • Full-Stack Dev • ML Enthusiast</h3>
+<h3 align="center">CS Undergrad @ DTU • Full-Stack Developer • Systems-minded Builder</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ankit-kandulna&label=Profile%20views&color=0e75b6&style=flat" alt="ankit-kandulna" />
@@ -19,58 +19,60 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech Computer Science @ **Delhi Technological University** (2023–2027) — CGPA: **7.62**
-- 🔭 Currently working on **AI-Generated Image Detection** and **Handwriting-to-Font** tools
-- 🌱 Exploring **Deep Learning**, **GANs**, and **Full-Stack AI Applications**
-- 💬 Ask me about **React, Next.js, FastAPI, Python, ML**
+- 🎓 B.Tech Computer Science @ **Delhi Technological University** (2023–2027)
+- 🔭 Building full-stack systems that mix distributed backend architecture (queues, caching, real-time messaging) with practical AI integrations
+- 🌱 Exploring backend system design, RAG pipelines, and applied ML
+- 💬 Ask me about **React/Next.js, Node.js/Express, FastAPI, Python, system design**
 - 📫 Reach me at **ankitkandulna1022@gmail.com**
 
 ---
 
 ## 🚀 Projects
 
-### 🤖 [AI-Generated Image Detector](https://ai-detector-ruddy-eta.vercel.app/)
-> Dual-model AI detection system with CNN + GAN architecture
+### 🧑‍🏫 [Mentor Platform](https://mentor-platform-sooty-mu.vercel.app/) — [GitHub](https://github.com/ANKIT-KANDULNA/mentor-platform)
+> Full-stack mentor-mentee platform with real-time chat, session booking, and a distributed backend
 
-- Trained an **EfficientNetB0** CNN achieving **93–95% accuracy** on 140k+ real & fake faces
-- Implemented a **PatchGAN discriminator** with Spectral Normalization for enhanced detection
-- Built a **FastAPI** backend with low-latency inference and model-switching support
-- Developed a **Next.js** frontend with drag-and-drop upload and real-time confidence visualization
+- Built a full-stack mentor-mentee platform with session booking, real-time chat, reviews, and communities — featuring role-based auth, mentor onboarding, and a personalized dashboard
+- Engineered a scalable Node.js/Express backend with Kafka for async events, BullMQ for job queues, Redis for caching/pub-sub, and Socket.IO (Redis adapter) for real-time chat across distributed instances
+- Containerized the full stack (React/Vite, Express, PostgreSQL, Redis) via Docker Compose with an Nginx reverse proxy, health checks, and JWT access/refresh token rotation
 
-**Stack:** Python · TensorFlow · PyTorch · FastAPI · Next.js · Tailwind CSS
-
----
-
-### ✍️ [Write Like Me AI](https://write-like-me-ai.vercel.app/)
-> Generate AI-written text rendered in *your* handwriting style on virtual canvas pages
-
-- Converts typed text into personalized handwritten output using learned handwriting patterns
-- Integrated **Groq (LLaMA 3.3-70B)** for text generation with DeepSeek as primary AI provider
-- Built canvas-based rendering with virtual paper pages in **Next.js 14**
-- Implemented clean export using `html-to-image` with local font embedding (Caveat.woff2)
-
-**Stack:** Next.js 14 · FastAPI · Groq · Python · Tailwind CSS
+**Stack:** React · Vite · Node.js · Express · PostgreSQL · Redis · Kafka · BullMQ · Socket.IO · Docker · Nginx
 
 ---
 
-### 🍔 [FoodDelish](https://food-delish.vercel.app/)
-> Full-stack food delivery platform
+### ✍️ [Write Like Me AI](https://write-like-me-ai.vercel.app/) — [GitHub](https://github.com/ANKIT-KANDULNA/write-like-me-ai)
+> Converts handwriting samples into a personalized, usable font
 
-- Secure auth using **JWT**, **bcrypt**, and **Google OAuth** (Firebase)
-- RESTful APIs for user auth, menu management, and order processing
-- **MongoDB Atlas** with optimized queries and modular backend architecture
-- Global state via **React Context API**; responsive UI with real-time cart updates
+- Built an AI-powered handwriting-to-font web app that converts user-uploaded samples into personalized `.woff2` fonts using a custom CV + ML pipeline
+- Built a Python backend for character segmentation and style extraction from images and PDFs
+- Developed a full-stack Next.js app with a REST API, authentication, and Prisma-backed job tracking with plug-and-play MongoDB/file storage
+- Automated end-to-end font generation triggered on user upload, with graceful fallback mechanisms for reliable inference
 
-**Stack:** React.js · Node.js · Express · MongoDB · Firebase · Tailwind CSS
+**Stack:** Next.js 14 · FastAPI · Python · Prisma · MongoDB
 
 ---
 
-### 🌐 [Portfolio Web App](https://portfolio-web-app-4d7fb.web.app/)
-> Responsive developer portfolio built with Flutter Web
+### 📚 [CrackMyCS AI](https://crack-my-cs-ai-eight.vercel.app/) — [GitHub](https://github.com/ANKIT-KANDULNA/crack-my-cs-ai) — RAG-based CS Fundamentals Assistant
+> Retrieval-augmented interview-prep assistant for core CS subjects
 
-- Reusable UI components, smooth navigation, and Firebase Hosting deployment
+- Developed a RAG-based interview-prep assistant answering CS fundamentals queries across OS, DBMS, OOPs, CN, System Design, and SE
+- Built the retrieval-generation pipeline using LangChain integrated with the Groq API
+- Implemented vector embeddings and semantic search to retrieve relevant context for accurate responses
+- Deployed with a frontend UI and backend API for end-to-end usability
 
-**Stack:** Flutter · Dart · Firebase
+**Stack:** LangChain · Groq API · Python · Vector Embeddings
+
+---
+
+### 📊 [Skills Needed Analysis](https://github.com/ANKIT-KANDULNA/skills-needed-analysis)
+> Data pipeline and BI dashboard on tech-hiring trends
+
+- Built a Python/Pandas data pipeline to clean 6,000+ unstructured job postings and extract 20+ tech skills using regular expressions
+- Designed an interactive Power BI dashboard with normalized data models to visualize skill demand and salary bands
+- Analyzed tech market trends, identifying that Docker and C++ command a $140k+ salary premium while SQL and Python drive the highest hiring volume
+- Architected a relational data model enabling complex one-to-many cross-filtering in Power BI
+
+**Stack:** Python · Pandas · Power BI · Regular Expressions
 
 ---
 
@@ -82,24 +84,23 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 **Frameworks & Libraries**
 
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 
-**Databases & Tools**
+**Infra, Databases & Tools**
 
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 
