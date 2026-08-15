@@ -126,7 +126,7 @@
   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=ankit-kandulna&layout=compact&theme=tokyonight&locale=en" alt="Top Languages" height="165"/>
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ankit-kandulna&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=ankit-kandulna&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
 ---
