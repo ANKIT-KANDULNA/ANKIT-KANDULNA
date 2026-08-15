@@ -122,8 +122,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankit-kandulna&show_icons=true&theme=tokyonight&locale=en" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ankit-kandulna&layout=compact&theme=tokyonight&locale=en" alt="Top Languages" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=ankit-kandulna&show_icons=true&theme=tokyonight&locale=en" alt="GitHub Stats" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=ankit-kandulna&layout=compact&theme=tokyonight&locale=en" alt="Top Languages" height="165"/>
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=ankit-kandulna&theme=tokyonight" alt="GitHub Streak"/>
